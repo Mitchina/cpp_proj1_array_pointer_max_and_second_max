@@ -11,7 +11,7 @@ int main()
     int* second_max=new int; // variable to memorize the second_max value;
 
 
-    for(int i=0;i<5;++i)
+    for(int i=0; i<5; ++i)
     {
         cout<<"Number inside array"<<endl;
         a[i]=rand()%100+20;
